@@ -5,3 +5,5 @@
 para ejecutar el sistema, debes pner:
 
 ```npn install react ````
+
+Sistema de registro 2
